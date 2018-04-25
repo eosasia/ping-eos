@@ -1,7 +1,5 @@
 # Ping EOS with React
 
-[gif]
-
 A simple demonstration of an interacting between the browser and a EOS blockchain. The demo uses [React](https://reactjs.org/) and [EOS.js](https://github.com/EOSIO/eosjs).
 
 ## Getting started
