@@ -7,7 +7,7 @@ With all the excitement around EOS, an area that remains challenging for most de
 EOS smart contracts are written in C++ and compile into Web Assembly. [Dan Larimer](https://steemit.com/eos/@dan/eos-example-exchange-contract-and-benefits-of-c) chose C++ to take advantage of its type and templating system which makes for safer contracts, and adds that because smart-contracts have short runtimes, most of the memory concerns fall away.
 
 ## Setting up
-Part of the challenge in working with EOS is setting up the local blockchain to work against. Luckily, EOS offers some facilities for [setting up your local EOS environment].(https://github.com/EOSIO/eos/wiki/Local-Environment#getting-the-code) For this guide, we’ll be using `EOSIO Dawn 3.0`.
+Part of the challenge in working with EOS is setting up the local blockchain to work against. Luckily, EOS offers some facilities for [setting up your local EOS environment](https://github.com/EOSIO/eos/wiki/Local-Environment#getting-the-code). For this guide, we’ll be using `EOSIO Dawn 3.0`.
 
 A summary of that guide can be condensed into a few key commands:
 ```bash
